@@ -1,5 +1,5 @@
 function Fs = PC_fusion(a,b)
-%   The code is writed by  Kun Zhan, Jicai Teng, Qiaoqiao Li
+%   The code is written by  Kun Zhan, Jicai Teng, Qiaoqiao Li
 %   $Revision: 1.0.0.0 $  $Date: 2014/03/20 $ ‏‎00:30:25 $
 w = ones(8);
 a = im2double(a);
